@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashingade&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashingade" /> </p>
 
-- 🌱 I'm currently learning **Azure**
+- 🌱 I'm currently learning MultiCloud 
 - 📫 How to reach me **shingadeshreya12@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/shreya-shingade](https://linkedin.com/in/shreya-shingade)
 
